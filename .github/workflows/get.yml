@@ -13,11 +13,12 @@ jobs:
     steps:
     - name: Download
       run: |
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://vercel.dreamakerr.cn/ -o vercel.dreamakerr.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zh-v2.d2l.ai/ -o zh-v2.d2l.ai.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://fomal.cc/ -o fomal.cc.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bilibili.com/ -o bilibili.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zh-v2.d2l.ai/ -o zh-v2.d2l.ai.jpg
+        
 
         curl https://purge.jsdelivr.net/gh/Dreamakerr/ScreenShot@gh-pages/*.*
     - name: Deploy
