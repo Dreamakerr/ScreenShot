@@ -21,7 +21,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://saop.cc/ -o saop.cc.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yisous.xyz/ -o yisous.xyz.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.space/ -o zfe.space.webp
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://vercel.dreamakerr.cn/ -o vercel.dreamakerr.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://dreamakerr.cn/ -o dreamakerr.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.lovelu.top/ -o blog.lovelu.top.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://noionion.top/ -o noionion.top.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://dusays.com/ -o dusays.com.webp
