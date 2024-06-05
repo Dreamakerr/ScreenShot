@@ -29,6 +29,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zh-v2.d2l.ai/ -o zh-v2.d2l.ai.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bilibili.com/ -o bilibili.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://xuancx.top/ -o xuancx.top.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.qyliu.top/ -o blog.qyliu.top.webp
         
 
         curl https://purge.jsdelivr.net/gh/Dreamakerr/ScreenShot@gh-pages/*.*
