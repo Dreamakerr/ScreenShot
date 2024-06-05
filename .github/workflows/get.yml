@@ -35,6 +35,16 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://butterfly.js.org/ -o butterfly.js.org.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://vercel.com/ -o vercel.com.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://github.com/ -o github.com.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.acwing.com/ -o www.acwing.com.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://leetcode.cn/ -o leetcode.cn.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://codeforces.com/ -o codeforces.com.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.luogu.com.cn/ -o www.luogu.com.cn.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chat.openai.com/chat -o chat.openai.com.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.csdn.net/ -o www.csdn.net.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.iconfont.cn/ -o www.iconfont.cn.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://pygments.org/demo/#try -o pygments.org.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://app.diagrams.net/ -o app.diagrams.net.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://imagestool.com/zh_CN/ -o imagestool.com.webp
         
 
         curl https://purge.jsdelivr.net/gh/Dreamakerr/ScreenShot@gh-pages/*.*
