@@ -30,6 +30,11 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bilibili.com/ -o bilibili.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://xuancx.top/ -o xuancx.top.webp
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.qyliu.top/ -o blog.qyliu.top.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.quenan.love/ -o www.quenan.love.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hexo.io/zh-cn/ -o hexo.io.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://butterfly.js.org/ -o butterfly.js.org.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://vercel.com/ -o vercel.com.webp
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://github.com/ -o github.com.webp
         
 
         curl https://purge.jsdelivr.net/gh/Dreamakerr/ScreenShot@gh-pages/*.*
